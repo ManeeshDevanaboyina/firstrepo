@@ -1,7 +1,6 @@
 main
-alternative
+main
 
 
-alternative
-another alternative
-new
+main
+main
